@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton');
+.mainpaige {width:90%; height:100vh; margin:auto; font-family: 'Anton', sans-serif;}
+.mainpaige h1{margin :0;padding: 20px 0;text-align: center;}
+.avatarstyle img{
+    width: 200px; height:200px;
+}
+h1{
+    text-align: center;
+}
+.avatarstyle{
+    margin: 60px;
+    display: inline-block;
+    /* ma4 bg-light-purple dib pa3 tc grow shadow-4 */
+}
+.contain{
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto;
+    background-color: lightskyblue;
+}
+.contain :hover{
+    transform: scale(1.1);
+}
+.avatarstyle :hover{
+    /* transition: all .2s ease-in-out;  */
+    transform: scale(1.1);
+    background-color: blue;
+}
