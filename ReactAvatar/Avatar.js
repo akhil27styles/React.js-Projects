@@ -34,7 +34,7 @@ import './Avatar.css'
                 },
                 {
                     id:3 ,
-                    name:"Harsh Kedai" ,
+                    name:"Harsh Kedia" ,
                     work:"Android Developer"
                 },
                 {
