@@ -1,2 +1,2 @@
 # React.js-Projects
-These are beginner React.js projects
+This is a collection of My React JS  Beginners practical projects.
